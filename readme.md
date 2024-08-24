@@ -8,3 +8,5 @@ fds放大撒撒试试
 [音乐](./home/music)
 
 [音乐2](./home/music.md)
+
+[电影](./home/movie.md)
